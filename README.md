@@ -17,7 +17,7 @@ I'm a Full Stack Developer and Graphic Designer with experience in web applicati
 ![jQuery](https://skillicons.dev/icons?i=jquery)
 
 ### Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Java](https://skillicons.dev/icons?i=java)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Nest.js](https://skillicons.dev/icons?i=nest) ![Laravel](https://skillicons.dev/icons?i=laravel)  ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Java](https://skillicons.dev/icons?i=java)
 
 ### Database
 ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Supabase](https://skillicons.dev/icons?i=supabase)
