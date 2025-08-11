@@ -6,9 +6,9 @@
   
   **Transformo ideas en experiencias excepcionales**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://go.moura.ar/lk)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](http://go.moura.ar/x)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://go.moura.ar/gm)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://go.moura.ar/lk)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://go.moura.ar/x)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://go.moura.ar/gm)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black)](https://moura.ar)
   
 </div>
@@ -75,7 +75,7 @@ Con la mirada puesta en el futuro, exploro nuevas fronteras en diseño y tecnolo
 
 <div align="center">
   
-  **[moura.ar](https://moura.ar)** | **[LinkedIn](https://www.linkedin.com/in/agustin-mouri%C3%B1o/)** | **[X (Twitter)](https://x.com/agus_moura)** | **[agus442m@gmail.com](mailto:agus442m@gmail.com)**
+  **[moura.ar](https://moura.ar)** | **[LinkedIn](https://go.moura.ar/lk)** | **[X (Twitter)](https://go.moura.ar/x)** | **[agus442m@gmail.com](https://go.moura.ar/gm)**
   
 </div>
 
