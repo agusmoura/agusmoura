@@ -6,9 +6,9 @@
   
   **Transformo ideas en experiencias excepcionales**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-mouri%C3%B1o/)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/agus_moura)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agus442m@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://go.moura.ar/lk)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](http://go.moura.ar/x)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://go.moura.ar/gm)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black)](https://moura.ar)
   
 </div>
