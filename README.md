@@ -25,7 +25,7 @@ Hoy, cada proyecto es un diálogo entre **posibilidades técnicas** y **necesida
 
 Con la mirada puesta en el futuro, exploro nuevas fronteras en diseño y tecnología, abriendo caminos hacia experiencias **innovadoras** y **memorables**.
 
-### 💼 Experiencia Actual
+### 💼 Puesto Actual
 
 - 🏢 **Analista Programador SR** en [Telecentro](https://www.linkedin.com/company/telecentro) - Desarrollo de soluciones escalables y mantenimiento de sistemas críticos
 ---
