@@ -27,9 +27,7 @@ Con la mirada puesta en el futuro, exploro nuevas fronteras en diseño y tecnolo
 
 ### 💼 Experiencia Actual
 
-- 🏢 **Analista Programador SSR** en [Telecentro](https://www.linkedin.com/company/telecentro) - Desarrollo de soluciones escalables y mantenimiento de sistemas críticos
-- 🌊 **Full Stack Advisor & Consultant** en [Wave IT](https://www.linkedin.com/company/waveit-ar) - Consultoría tecnológica y arquitectura de software
-
+- 🏢 **Analista Programador SR** en [Telecentro](https://www.linkedin.com/company/telecentro) - Desarrollo de soluciones escalables y mantenimiento de sistemas críticos
 ---
 
 ## 🛠️ Stack Tecnológico
