@@ -73,7 +73,7 @@ Con la mirada puesta en el futuro, exploro nuevas fronteras en diseño y tecnolo
 
 <div align="center">
   
-  **[moura.ar](https://moura.ar)** | **[LinkedIn](https://go.moura.ar/lk)** | **[X (Twitter)](https://go.moura.ar/x)** | **[agus442m@gmail.com](https://go.moura.ar/gm)**
+  **[moura.ar](https://moura.ar)** | **[LinkedIn](https://go.moura.ar/lk)** | **[X (Twitter)](https://go.moura.ar/x)** | **[agus@moura.ar](https://go.moura.ar/gm)**
   
 </div>
 
