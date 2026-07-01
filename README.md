@@ -1,33 +1,33 @@
 <div align="center">
   
-  # 🚀 Agustin Mouriño
+  # 🚀 Agustín Mouriño
   
   ### Desarrollador Full-Stack & Diseñador UX/UI
   
-  **Transformo ideas en experiencias excepcionales**
+  **Construyo productos web de punta a punta — de la interfaz a la arquitectura.**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://go.moura.ar/lk)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://go.moura.ar/x)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://go.moura.ar/gm)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black)](https://moura.ar)
   
+  🌐 **[moura.ar](https://moura.ar)** · portfolio y contacto
+  
 </div>
 
 ---
 
-## 🌟 Sobre Mí
+## 🌟 Sobre mí
 
-> **"Donde la creatividad encuentra la lógica"**
+Desarrollador full-stack y diseñador UX/UI. Me interesa el **porqué** detrás de cada decisión técnica: arquitectura limpia, código mantenible y experiencias que se entienden sin manual.
 
-Desde pequeño me fascinó descubrir el **porqué** y el **cómo** de las cosas. Esa curiosidad me llevó a convertirme en desarrollador full-stack y diseñador UX/UI.
+Trabajo el producto entero — interfaz, lógica y datos — buscando el punto donde lo técnicamente sólido se cruza con lo que la persona del otro lado necesita.
 
-Hoy, cada proyecto es un diálogo entre **posibilidades técnicas** y **necesidades humanas**. Me sumerjo en la esencia de cada desafío, transformando ideas en realidades palpables.
+### 💼 Ahora
 
-Con la mirada puesta en el futuro, exploro nuevas fronteras en diseño y tecnología, abriendo caminos hacia experiencias **innovadoras** y **memorables**.
+- 🏢 **Senior Frontend Developer** en [Mercado Libre](https://mercadolibre.com) — equipo **Instore Payments / PDV**. Frontend de pagos presenciales con React + SCSS sobre frameworks internos.
+- 🧩 **Freelance** — desarrollo a medida con Next.js / Nest.js y sitios WordPress / WooCommerce.
 
-### 💼 Puesto Actual
-
-- 🏢 **Analista Programador SR** en [Telecentro](https://www.linkedin.com/company/telecentro) - Desarrollo de soluciones escalables y mantenimiento de sistemas críticos
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -56,31 +56,23 @@ Con la mirada puesta en el futuro, exploro nuevas fronteras en diseño y tecnolo
 
 ---
 
-## 🎯 Especialidades
+## 🎯 En qué me especializo
 
-- 🏗️ **Arquitectura de Software** - Diseño de sistemas escalables y mantenibles
-- 🎨 **Diseño de Interfaces** - Creación de experiencias de usuario intuitivas y atractivas
-- ⚡ **Optimización de Rendimiento** - Mejora de velocidad y eficiencia en aplicaciones web
-- 🔒 **Seguridad Web** - Implementación de mejores prácticas de seguridad
-- 📱 **Desarrollo Responsive** - Aplicaciones adaptables a todos los dispositivos
-- 🔄 **Integración de APIs** - Conexión fluida entre servicios y plataformas
+- 🏗️ **Arquitectura de software** — sistemas escalables y mantenibles (Clean / Hexagonal / Screaming)
+- 🎨 **Diseño de interfaces** — de Figma a producto, con foco en UX real
+- ⚡ **Performance web** — velocidad y eficiencia medibles, no promesas
+- 🧩 **Atomic design & patrones** — container/presentational, design systems
+- 🔄 **Integración de APIs** — conectar servicios sin fricción
+- 🔒 **Seguridad web** — buenas prácticas desde el diseño, no como parche
 
 ---
 
 ## 📫 Conectemos
 
-¿Tienes un proyecto en mente o simplemente quieres charlar sobre tecnología? ¡Me encantaría escucharte!
+¿Tenés un proyecto en mente o querés charlar de arquitectura y diseño? Escribime.
 
 <div align="center">
   
-  **[moura.ar](https://moura.ar)** | **[LinkedIn](https://go.moura.ar/lk)** | **[X (Twitter)](https://go.moura.ar/x)** | **[agus@moura.ar](https://go.moura.ar/gm)**
-  
-</div>
-
----
-
-<div align="center">
-  
-  *"El código es poesía, el diseño es arte, y juntos crean magia"*
+  **[moura.ar](https://moura.ar)** · **[LinkedIn](https://go.moura.ar/lk)** · **[X](https://go.moura.ar/x)** · **[agus@moura.ar](https://go.moura.ar/gm)**
   
 </div>
